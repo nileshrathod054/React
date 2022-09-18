@@ -1,0 +1,13 @@
+.container{
+    background-color: grey;
+    height: 125vh;
+    margin-top: -0px;
+    font-size: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.form{
+    text-align: center;
+    background-color: blueviolet;
+}

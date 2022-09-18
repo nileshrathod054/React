@@ -1,0 +1,42 @@
+.contact{
+    background-color: lightgreen;
+    height: 500px;
+}
+.touch{
+    text-align: center;
+}
+.box1 {
+    display: inline-block;
+    background-color: lightgreen;
+    width: 33%;
+    text-align: center;
+}
+.box2 {
+    display: inline-block;
+    background-color: lightgreen;
+    width: 33%;
+    height: 70px;
+    text-align: center;
+}
+.box3 {
+    display: inline-block;
+    background-color: lightgreen;
+    width: 34%;
+    text-align: center;
+}
+
+.hand1{
+    display: inline-block;
+    width: 30%;
+}
+.hand2{
+    display: inline-block;
+    width: 37%;
+}
+.hand3{
+    display: inline-block;
+    width: 33%;
+}
+.contactdetail{
+    border: 1px solid black;
+}

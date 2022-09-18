@@ -1,0 +1,31 @@
+.intro1 {
+    display: inline-block;
+    background-color: lightgreen;
+    width: 33%;
+}
+.intro2 {
+    display: inline-block;
+    background-color: lightgreen;
+    width: 33%;
+    height: 150px;
+    text-align: center;
+}
+.intro3 {
+    display: inline-block;
+    background-color: lightgreen;
+    width: 34%
+}
+.mid{
+    text-align: Center;
+}
+.pic1 {
+    display: inline-block;
+    width: 16%;
+}
+.mid-1 {
+    display: inline-block;
+    width: 42%;
+}
+.nilesh {
+    text-align: center;
+}
